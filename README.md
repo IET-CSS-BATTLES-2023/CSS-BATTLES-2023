@@ -3,7 +3,7 @@
 ### Instructions
 - Please aim to replicate the CSS design based on the provided image as closely as possible.
 - Please use colors that closely resemble those in the image provided, even if they are not exactly matched.
-- Asset needed for [design 3](./d3.jpg) and [design 6](./d6.jpg) is [sun logo](./sun.png).
+- Asset needed for [design 3](./d3.jpg) and [design 6](./d6.png) is [sun logo](./sun.png).
   
 
 Refer to the maximum points for each design below.
@@ -11,7 +11,7 @@ Refer to the maximum points for each design below.
 |Design| Marks |
 |--|--|
 | [Design 1](./d1.png) | 10 |
-|[Design 2](./d2.jpg)|7|
+|[Design 2](./d2.jpg)| 7 |
 |[Design 3](./d3.jpg)  | 7 |
 |[Design 4](./d4.jpg)  | 10 |
 |[Design 5](./d5.jpg)  | 7 |
