@@ -9,13 +9,13 @@ Refer to the maximum points for each design below.
 
 |Design| Marks |
 |--|--|
-| [Design 1](./d1.jpg) | 10 |
+| [Design 1](./d1.png) | 10 |
 |[Design 2](./d2.jpg)|7|
 |[Design 3](./d3.jpg)  | 7 |
 |[Design 4](./d4.jpg)  | 10 |
 |[Design 5](./d5.jpg)  | 7 |
-| [Design 6](./d6.jpg) | 4 |
-| [Design 7](./d7.jpg) | 4 |
+| [Design 6](./d6.png) | 4 |
+| [Design 7](./d7.png) | 4 |
 | [Design 8](./d8.jpg) | 4 |
 | [Design 9](./d9.jpg) | 10 |
 
