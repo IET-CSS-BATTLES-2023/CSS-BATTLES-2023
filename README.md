@@ -3,6 +3,7 @@
 ### Instructions
 - Please aim to replicate the CSS design based on the provided image as closely as possible.
 - Please use colors that closely resemble those in the image provided, even if they are not exactly matched.
+- Please ensure that the dimensions of your design closely resemble those in the provided image. While you have flexibility, aim for a final design that captures the essence of the original image.
 - Asset needed for [design 3](./d3.jpg) and [design 6](./d6.png) is [sun logo](./sun.png).
   
 
